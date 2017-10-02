@@ -28,7 +28,7 @@ SET comPort=COM1
 if ["%~1"]==[""] (
     ECHO.
     ECHO.
-    ECHO Automatic Port scan
+    ECHO Automatic Port Scan
     ECHO.
 
 
