@@ -19,7 +19,7 @@ Hint:  Be careful with LONG USB cables, anything longer then 1M (3') likely will
 - If you have more than one regulator to update you may do them independently, or attach both to your computer at the same time.
 - Click on `Alt-Update.bat` to initiate the update.
 
-The utility will scan your computer looking for a attached devices.  When it locates an attached device it will verify if it is an Alternator Regulator and attempt to upload the new firmware.  You will be able to see the progress of these scans and the uploads on the screen.  The following is an example:
+The utility will scan your computer looking for a attached devices.  When it locates an attached device it will verify if it is an Alternator Regulator and attempt to upload the new firmware.  You will be able to see the progress of these scans and the uploads on the screen.  Once the upload is competed you should see the LED start to blink Green slowly as the Alternator Regulator goes through its start up routine.   The following is an example:
 
 
 
