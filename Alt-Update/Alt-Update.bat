@@ -21,7 +21,7 @@ REM *****************************************************
 
 SETLOCAL ENABLEDELAYEDEXPANSION
 
-SET firmware=SmartRegulatorv1.1.1.ino.hex
+SET firmware=SmartRegulatorv1.1.2.ino.hex
 SET comPort=COM1
 
 
