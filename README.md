@@ -14,7 +14,7 @@ Hint:  Be careful with LONG USB cables, anything longer then 1M (3') likely will
 ## How to use
 - Download this utility as a zip file to your local machine by clicking the green `Clone or download' button on the upper right-hand side.  Save the file as a .ZIP file to your local machine.
 - Open up the .zip file and copy the folder `Alt-Update`  to a working directory on your local machine.
-- If this is the first time for using this utility you need to install the transfer tool `avrdude`.  Click on `WinAVR-20100110-install` to install the tool.
+- If this is the first time for using this utility you need to install the transfer tool `avrdude`.  Click on `WinAVR-20100110-install`(included in download) to install the tool.
 - Connect your regulator to the PC using a USB cable.  Wait for any needed 'drivers' to automatically install.
 - If you have more than one regulator to update you may do them independently, or attach both to your computer at the same time.
 - Click on `Alt-Update.bat` to initiate the update.
