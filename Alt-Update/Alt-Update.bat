@@ -2,11 +2,11 @@
 REM *****************************************************
 REM *
 REM *
-REM *	Simple batch file to update firmware on Alternatro Regualtors
+REM *	Simple batch file to update firmware on Alternator Regulators
 REM *
-REM *	asdf: Put in URLs, for the reg and the github for this util
+REM *	This utility is hosted here:  https://github.com/AlternatorRegulator/alt-Binary
 REM *
-REM *	asdf:  Pur in how to use
+REM *	Refer to the link above for details on how to use this batch file.
 REM *
 REM *
 REM *	Optional Parms
